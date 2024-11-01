@@ -2,7 +2,7 @@
 name: User Story
 about: Create a user story with acceptance criteria
 title: "[Brief feature description, e.g., Create User Registration Page]"
-labels: ''
+labels: User Story
 assignees: ''
 
 ---
